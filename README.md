@@ -1,4 +1,0 @@
-Symphony
-========
-
-My tests
